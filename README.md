@@ -1,0 +1,1 @@
+пример реалицации перемещения объекта https://oxyrud.github.io/draganddrop/
